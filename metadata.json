@@ -1,0 +1,6 @@
+{
+  "name": "RetireWise AI",
+  "description": "A modern, professional AI-powered retirement planning and investment optimization website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
